@@ -1,5 +1,5 @@
 O que são contêineres?
-O container nada mais é do que um ambiente isolado, disposto em um servidor, que divide um único host de controle
+O Contêiners nada mais é do que um ambiente isolado, disposto em um servidor, que divide um único host de controle
 
 Para que se usa um contêiner?
 containers trazem diferentes possibilidades. Por serem ambientes isolados e portáveis, os desenvolvedores podem empacotar aplicações com bibliotecas e links necessários.
